@@ -3,3 +3,5 @@ public class MyApp {
         System.out.println("this is my app file");
     }
 }
+
+// jar cfe MyApp.jar MyApp MyApp.class
